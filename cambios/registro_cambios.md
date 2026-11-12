@@ -14,3 +14,5 @@ Registro de cambios
 | Riesgo | Total incorrecto | Descuento incorrecto en umbral |
 | Prueba | 50 x 3 = 150 | Subtotales 150, 200 y 300 |
 | Decisión | Aprobada | Aprobada |
+
+INC: Implementada y verificada
