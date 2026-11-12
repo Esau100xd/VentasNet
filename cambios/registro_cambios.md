@@ -16,3 +16,4 @@ Registro de cambios
 | Decisión | Aprobada | Aprobada |
 
 INC: Implementada y verificada
+CR-002: Implementada y verificada
